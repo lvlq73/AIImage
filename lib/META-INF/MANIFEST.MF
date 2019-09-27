@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.17.jar json-20160810.jar aip-java-sdk-4.10.0.jar
+Main-Class: 
+
